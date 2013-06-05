@@ -1,0 +1,19 @@
+改config
+moban-GZ
+PG 2.0.0-2.7.0
+
+修改版权story00.
+新版
+
+
+
+
+Old:
+
+<a href= "link01.html">法兰瓷</a><br><br>
+<a href= "link02.html">麦哲伦环球航海</a><br><br>
+ 
+
+<a href= "pic01.html">环球航线</a><br><br>
+<a href= "pic02.html">麦加（Mecca）大清真寺</a><br><br>
+ 
